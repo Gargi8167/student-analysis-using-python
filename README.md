@@ -38,7 +38,6 @@ This project analyzes survey responses from 33 students to explore their learnin
 - Most respondents reported around 7–7.5 hours of sleep per day.
 - Many students reported limited time for domain-specific practice and project development.
 
-*Findings reflect the collected survey responses and should be interpreted in the context of the small sample size.*
 
 ## Project Outputs
 
