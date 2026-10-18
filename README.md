@@ -1,4 +1,4 @@
-# Real-Student-Analysis-Project
+# Real Data-Student-Analysis-Project
 Statistical analysis of student lifestyle, learning habits, career-domain preferences, skill development, and career readiness using Python, Pandas, and NumPy.
 # Student Lifestyle & Learning Habits Analysis
 
@@ -72,8 +72,4 @@ The analysis generates CSV files containing:
 - Results describe the collected data and do not establish causation.
 - The project focuses on statistical analysis rather than predictive modelling.
 
-## Contributors
 
-- Gargi Gupta
-- Himanshi Motghare
-- Saee Naik
